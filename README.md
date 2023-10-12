@@ -21,3 +21,6 @@ run this command by windows powershell command line...
 <br />
 
 `app/auth/layout.tsx` and `app/root/layout.tsx` should be wrapped with `<ClerkProvider>`
+
+## Learning Context
+* file & folder structure
